@@ -17,12 +17,14 @@ Error Handling: Catching and handling errors in asynchronous operations.
 Instructions to Run the Project:
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/route-optimization-tool.git
-Open the amazon.html file in your browser with live server.
+git clone https://github.com/Ravicv168/Amazon-Project.git
+Open the amazon.html file with live server.
 
 Interact with the Application:
 
 Add the products to the cart.
+Update the Product Quantity.
+Delete the Prduct from the cart.
 Place the Order for the products which are present in the cart.
 
-Note: Track Package functionality is in progress.. so this might wont work as expected.
+Note: Track Package functionality is in progress.so this wont work as expected.
